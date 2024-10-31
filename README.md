@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-
 
-Tic Tac Toe game (pygame) where you play against a perfect AI.
+Tic Tac Toe game (pygame) where you play against a perfect AI using the Minimax algorithm with alpha-beta pruning.
 
 How to run:
 
